@@ -168,6 +168,12 @@ img {
         width: 100%;
         margin-bottom: 4rem;
     }
+
+    .why-us :last-child,
+    .steps :last-child,
+    .lessons :last-child {
+        margin-bottom: 0;
+    }
 }
 
 @media screen and (max-width: 1160px) {

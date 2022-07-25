@@ -170,8 +170,7 @@ img {
     }
 
     .why-us :last-child,
-    .steps :last-child,
-    .lessons :last-child {
+    .steps :last-child {
         margin-bottom: 0;
     }
 
